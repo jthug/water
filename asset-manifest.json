@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/water/static/css/main.dd40a98f.chunk.css",
+    "main.js": "/water/static/js/main.d9e5da77.chunk.js",
+    "main.js.map": "/water/static/js/main.d9e5da77.chunk.js.map",
+    "runtime-main.js": "/water/static/js/runtime-main.7ae0ba9d.js",
+    "runtime-main.js.map": "/water/static/js/runtime-main.7ae0ba9d.js.map",
+    "static/js/2.9c7e2929.chunk.js": "/water/static/js/2.9c7e2929.chunk.js",
+    "static/js/2.9c7e2929.chunk.js.map": "/water/static/js/2.9c7e2929.chunk.js.map",
+    "index.html": "/water/index.html",
+    "precache-manifest.b8f1beb3e786b070291996cbfbdcba6a.js": "/water/precache-manifest.b8f1beb3e786b070291996cbfbdcba6a.js",
+    "service-worker.js": "/water/service-worker.js",
+    "static/css/main.dd40a98f.chunk.css.map": "/water/static/css/main.dd40a98f.chunk.css.map",
+    "static/js/2.9c7e2929.chunk.js.LICENSE": "/water/static/js/2.9c7e2929.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ae0ba9d.js",
+    "static/js/2.9c7e2929.chunk.js",
+    "static/css/main.dd40a98f.chunk.css",
+    "static/js/main.d9e5da77.chunk.js"
+  ]
+}
